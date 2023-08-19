@@ -1,0 +1,37 @@
+/*
+body{
+ background-color:beige;
+}
+
+hr{
+    border-top: 5px grey dotted;
+    width: 50px;
+}
+h1{
+ color:burlywood;
+}
+
+h2{
+    color: #432316;
+}
+*/
+
+.Introduction{
+    background-color: #d0bea8;
+} 
+
+hr{
+    border-top: 5px grey dotted;
+    width: 50px;
+}
+
+.other_details{
+    background-color: #f7e7ce;
+}
+
+.links{
+    background-color: #be965b;
+}
+body{
+    border
+}
